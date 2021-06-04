@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Chess</string>
+    <string name="action_settings">Settings</string>
+    <string name="Welcome">Welcome!</string>
+    <string name="play">PLAY</string>
+    <string name="replay">REPLAY</string>
+    <string name="cancel">CANCEL</string>
+    <string name="commit">COMMIT</string>
+    <string name="rook">rook</string>
+    <string name="queen">queen</string>
+    <string name="bishop">bishop</string>
+    <string name="knight">knight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_conclusion">Conclusion</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_pastgames">pastgames</string>
+    <string name="title_activity_replay">replay</string>
+    <string name="title_activity_promotion">promotion</string>
+
+</resources>
